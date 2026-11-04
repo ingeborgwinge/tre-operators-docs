@@ -9,7 +9,7 @@
 			<li>Operating Procedures</li>
 			<li>Interface definitions for Authentication, Authorization, and Auditing Infrastructure (AAAI)</li>
 		</ul>
-		<p class="tre-lead">Use this guide to understand each component, from foundational concepts through deployment and governance. Reference the TRE Provider Catalogue to explore available environments and plan your infrastructure.</p>
+<p class="tre-lead">Use this guide to understand each component, from foundational concepts through deployment and governance. Reference the <a href="https://eosc-entrust.eu/providers">TRE Provider Catalogue</a> to explore available environments and plan your infrastructure.</p>
 
 		<div class="tre-hero-actions">
 			<a class="tre-hero-link" href="fundamentals/"><i class="fa-solid fa-book-open tre-icon-inline" aria-hidden="true"></i>Start with fundamentals</a>
