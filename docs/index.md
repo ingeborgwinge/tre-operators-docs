@@ -2,14 +2,14 @@
 	<div class="tre-hero-main">
 		<p class="tre-eyebrow">EOSC-ENTRUST</p>
 		<h1>EOSC-ENTRUST Blueprint</h1>
-		<p class="tre-lead">EOSC-ENTRUST is developing a scalable, interoperable framework for secure, federated access to sensitive research data across Europe. The project is aligned with the European Health Data Space (EHDS) and the European Open Science Cloud (EOSC), and it is grounded in real-world implementation needs. The ENTRUST Blueprint defines the minimal requirements for joining a federated TRE ecosystem. It covers:</p>
+		<p class="tre-lead">Build a secure, cross-border research environment for sensitive data. The EOSC-ENTRUST Blueprint provides the core requirements to join a federated TRE ecosystem aligned with EHDS and EOSC standards. It covers:</p>
 		<ul class="tre-lead-list">
 			<li>Architecture Specifications</li>
 			<li>Legal Templates</li>
 			<li>Operating Procedures</li>
 			<li>Interface definitions for Authentication, Authorization, and Auditing Infrastructure (AAAI)</li>
 		</ul>
-		<p class="tre-lead">This guide walks you through these components module by module. A TRE Provider Catalogue complements it by giving researchers a structured overview of available environments and their access and security specifications. Together, these outputs advance cross-border collaboration in sensitive data research. This guide is part of the EOSC-ENTRUST Training Package and helps Trusted Research Environment (TRE) providers build, operate, and maintain secure, compliant, and interoperable environments that are ready to join a federated ecosystem across Europe.</p>
+		<p class="tre-lead">Use this guide to understand each component, from foundational concepts through deployment and governance. Reference the TRE Provider Catalogue to explore available environments and plan your infrastructure.</p>
 
 		<div class="tre-hero-actions">
 			<a class="tre-hero-link" href="fundamentals/"><i class="fa-solid fa-book-open tre-icon-inline" aria-hidden="true"></i>Start with fundamentals</a>
