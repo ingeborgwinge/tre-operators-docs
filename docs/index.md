@@ -9,6 +9,13 @@
 			<li>Operating Procedures</li>
 			<li>Interface definitions for Authentication, Authorization, and Auditing Infrastructure (AAAI)</li>
 		</ul>
+		<p class="tre-lead">This guide walks you through these components module by module. A TRE Provider Catalogue complements it by giving researchers a structured overview of available environments and their access and security specifications. Together, these outputs advance cross-border collaboration in sensitive data research. This guide is part of the EOSC-ENTRUST Training Package and helps Trusted Research Environment (TRE) providers build, operate, and maintain secure, compliant, and interoperable environments that are ready to join a federated ecosystem across Europe.</p>
+
+		<div class="tre-hero-actions">
+			<a class="tre-hero-link" href="fundamentals/"><i class="fa-solid fa-book-open tre-icon-inline" aria-hidden="true"></i>Start with fundamentals</a>
+			<a class="tre-hero-link tre-hero-link-secondary" href="modules/architecture/"><i class="fa-solid fa-diagram-project tre-icon-inline" aria-hidden="true"></i>View architecture</a>
+			<a class="tre-hero-link tre-hero-link-secondary" href="federation/"><i class="fa-solid fa-globe tre-icon-inline" aria-hidden="true"></i>Read federation guide</a>
+		</div>
 	</div>
 
 	<div class="tre-hero-side">
